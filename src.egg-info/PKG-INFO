@@ -4,4 +4,5 @@ Version: 0.0.1
 Summary: An MLOps project for productionizing models
 Author: Anish Aman
 Author-email: Anish Aman <anishaman6206@gmail.com>
+License-File: LICENSE
 Dynamic: author
